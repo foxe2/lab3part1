@@ -1,4 +1,4 @@
 <ul>
 <li> Ethan Fox </li>
-<li> !(img.jpg) </li>
+<li> ![Ethan](img.jpg) </li>
 </ul>
